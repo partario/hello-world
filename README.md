@@ -1,4 +1,4 @@
 # hello-world
-**This. Is. Github.**
+**This. Is. GitHub.**
 
 ...Okay, I guess you knew that.
